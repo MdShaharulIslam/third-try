@@ -3,6 +3,21 @@
     padding: 0;
 }
 
+.header {
+    background-image: url(image/bg.jpg);
+    width: 100%;
+    height: 400px;
+    margin: auto;
+}
+
+.header h1 {
+    text-align: center;
+    color: azure;
+    font-size: 60px;
+}
+
+h1 {}
+
 .hero {
     background-color: aqua;
     border: 4px solid black;
