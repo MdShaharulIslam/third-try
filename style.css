@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background-color: aqua;
+    border: 4px solid black;
+    width: 300px;
+    height: 100px;
+    border-left: 106px solid red;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 20px rgb(183, 212, 212);
+}
